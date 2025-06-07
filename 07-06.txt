@@ -4,7 +4,8 @@
 
 ### Recurssion
 3 https://leetcode.com/problems/super-pow/description/
-
+4 https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/
+5 https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/description/
 
 ### dp
 
