@@ -1,6 +1,6 @@
 ### striver
 1 https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
-
+2 https://leetcode.com/problems/sum-of-distances/
 
 ### Recurssion
 
