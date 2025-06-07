@@ -1,5 +1,5 @@
 ### striver
-1 https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
+1 
 
 
 ### Recurssion
