@@ -3,7 +3,7 @@
 2 https://algo.monster/liteproblems/186
 3 https://leetcode.com/problems/make-k-subarray-sums-equal/
 4 https://leetcode.com/problems/lexicographical-numbers/?envType=daily-question&envId=2025-06-08
-
+5 https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/?envType=daily-question&envId=2025-06-07
 
 ### Recurssion
 
