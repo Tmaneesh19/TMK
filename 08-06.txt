@@ -2,6 +2,8 @@
 1 https://leetcode.com/problems/rotate-list/
 2 https://algo.monster/liteproblems/186
 3 https://leetcode.com/problems/make-k-subarray-sums-equal/
+4 https://leetcode.com/problems/lexicographical-numbers/?envType=daily-question&envId=2025-06-08
+
 
 ### Recurssion
 
