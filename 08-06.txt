@@ -8,11 +8,15 @@
 
 
 https://github.com/MAZHARMIK/Cpp-STL-Quick-Help
+
+
 ### Recurssion
 
 
 
 ### dp
+1 https://leetcode.com/problems/maximum-alternating-subsequence-sum/
+2 https://leetcode.com/problems/longest-increasing-subsequence/
 
 
 
