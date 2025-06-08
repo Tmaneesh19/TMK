@@ -1,5 +1,6 @@
 ### striver
 1 https://leetcode.com/problems/rotate-list/
+2 https://algo.monster/liteproblems/186
 
 ### Recurssion
 
