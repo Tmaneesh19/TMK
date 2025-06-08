@@ -21,3 +21,4 @@ https://github.com/MAZHARMIK/Cpp-STL-Quick-Help
 
 
 ### graph
+1 https://leetcode.com/problems/detonate-the-maximum-bombs/
