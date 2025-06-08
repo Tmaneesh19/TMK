@@ -1,6 +1,7 @@
 ### striver
 1 https://leetcode.com/problems/rotate-list/
 2 https://algo.monster/liteproblems/186
+3 https://leetcode.com/problems/make-k-subarray-sums-equal/
 
 ### Recurssion
 
