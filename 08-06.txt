@@ -22,3 +22,4 @@ https://github.com/MAZHARMIK/Cpp-STL-Quick-Help
 
 ### graph
 1 https://leetcode.com/problems/detonate-the-maximum-bombs/
+2 https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/ (not done)
