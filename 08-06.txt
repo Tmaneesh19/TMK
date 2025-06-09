@@ -5,7 +5,7 @@
 4 https://leetcode.com/problems/lexicographical-numbers/?envType=daily-question&envId=2025-06-08
 5 https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/?envType=daily-question&envId=2025-06-07
 6 https://algo.monster/liteproblems/3400
-
+7 https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/
 
 https://github.com/MAZHARMIK/Cpp-STL-Quick-Help
 
