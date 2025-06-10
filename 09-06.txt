@@ -9,6 +9,7 @@
 2 https://leetcode.com/problems/combinations/description/
 3 https://leetcode.com/problems/combination-sum-iii/
 4 https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/
+5 https://leetcode.com/problems/letter-case-permutation/description/
 
 ### dp
 1 https://leetcode.com/problems/combination-sum-iv/description/
