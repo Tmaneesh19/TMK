@@ -6,7 +6,7 @@ https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/description
 
 
 https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/?envType=daily-question&envId=2025-06-13asd
-
+https://www.geeksforgeeks.org/problems/equal-0-1-and-23208/1
 dp:
 
 1 https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/
