@@ -8,3 +8,5 @@ https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/description
 dp:
 
 1 https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/
+
+and buy and sell stocks - 1 2 3 4
