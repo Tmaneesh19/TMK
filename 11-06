@@ -1,6 +1,5 @@
 dp:
-1 https://www.geeksforgeeks.org/problems/coin-change2448/1
-2 https://leetcode.ca/2024-06-22-3183-The-Number-of-Ways-to-Make-the-Sum/
+
 =>int mod = 1e9 + 7;
 
     int helper(vector<int>& coins, int sum, int index, int count4) {
